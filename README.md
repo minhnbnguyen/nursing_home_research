@@ -137,8 +137,8 @@ def consolidate_annual_reports(df: pd.DataFrame) -> pd.DataFrame:
 
 ## Key Findings 🔑
 
-### High-level view of the customer complaint
-![Word Cloud](https://github.com/minhnbnguyen/DATA-332/blob/main/Chase_Complaint_Analysis/visualization/wordcloud.png)
+### Larger cities attract higher gross revenue
+![FP_rev_by_state](https://github.com/minhnbnguyen/DATA-332/blob/main/Chase_Complaint_Analysis/visualization/wordcloud.png)
 - The most common problem are likely related to wrong information, lost, or failed issue
 
 
