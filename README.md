@@ -139,7 +139,7 @@ def consolidate_annual_reports(df: pd.DataFrame) -> pd.DataFrame:
 
 ### Positive Income Growth Rate
 ![Income Growth Rate](https://github.com/minhnbnguyen/DATA-332/blob/main/Chase_Complaint_Analysis/visualization/wordcloud.png)
-![Income Structure](https://github.com/minhnbnguyen/DATA-332/blob/main/Chase_Complaint_Analysis/visualization/wordcloud.png)
+![Income Structure](https://github.com/minhnbnguyen/project3_nursing_home_research/blob/main/graph/FP_income_structure.png)
 - This industry witnesses very positive income growth rate, even during Covid-19
 - Despite the negative operating growth rate starting since the pandemic, this industry is still witnessing a positive net income growth. This is due to the Government fund serves as a strong source of income.
 
