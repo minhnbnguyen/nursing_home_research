@@ -1,6 +1,6 @@
 # NURSING HOME INVESTMENT RESEARCH 🏥
 
-## By Minh Nguyen ☀️
+## By Minh (Robin) Nguyen ☀️
 
 ## Introduction
 This research project investigates the financial performance and investment potential of the U.S. nursing home industry, using a near-complete dataset (2015–2021) from the U.S. Department of Health and Human Services.
@@ -137,12 +137,12 @@ def consolidate_annual_reports(df: pd.DataFrame) -> pd.DataFrame:
 
 ## Key Findings 🔑
 
-### Larger cities attract higher gross revenue
-![FP_rev_by_state](https://github.com/minhnbnguyen/DATA-332/blob/main/Chase_Complaint_Analysis/visualization/wordcloud.png)
-- The most common problem are likely related to wrong information, lost, or failed issue
-
+### Positive Income Growth Rate
+![Income Growth Rate](https://github.com/minhnbnguyen/DATA-332/blob/main/Chase_Complaint_Analysis/visualization/wordcloud.png)
+- This industry witnesses very positive income growth rate, even during Covid-19
+![Income Structure](https://github.com/minhnbnguyen/DATA-332/blob/main/Chase_Complaint_Analysis/visualization/wordcloud.png)
+- Despite the negative operating growth rate starting since the pandemic, this industry is still witnessing a positive net income growth. This is due to the Government fund serves as a strong source of income.
 
 ## Final Suggestions
-- Focus on anger and trust as your primary findings since they are significant in both tests
-- Acknowledge joy as potentially important since it's significant when controlling for all variables
-- Consider whether to include sadness based on your research question and theoretical framework -> work backwards
+- Potential industry to invest into, with guaranteed stream of income from both market demand and government fund
+- Focus on metropolitan area like New York or California
